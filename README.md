@@ -1,4 +1,9 @@
-### Hi there 👋
+### E aí?
+
+Atualmente desenvolvedor Delphi na Embalsoft.
+Trabalhando com boas práticas de desenvolvimento e aprendendo bastante sobre agilidade.
+
+Sou voluntário na comunidade DevPira ajudando na organização de eventos!
 
 <!--
 **abpaula77/abpaula77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
